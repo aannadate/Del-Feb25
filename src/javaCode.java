@@ -5,6 +5,8 @@ public class javaCode {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World . . .");
+		
+		System.out.println("Nice to push with new branch 1 ");
 	}
 
 }
