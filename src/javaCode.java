@@ -7,6 +7,8 @@ public class javaCode {
 		System.out.println("Hello World . . .");
 		
 		System.out.println("Nice to push with new branch 1 ");
+
+		int =1;
 	}
 
 }
