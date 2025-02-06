@@ -8,7 +8,10 @@ public class javaCode {
 		
 		System.out.println("Nice to push with new branch 1 ");
 
+		String name;
+		System.out.println(" added something in feature branch after merging previous changes in feature branch"
 		int =1;
+
 	}
 
 }
